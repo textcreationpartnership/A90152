@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Generall Ovven Oneales letter to Collonell Monck with the propositions of Owen Oneale, the Lords, gentry, and commons of the Confederate Catholiques of Ulster: to the most honourable, and potent, the Parliament of England. Together vvith Coll. Monck his answer. And Collonell Moncks propositions to Owen Oneale, and the rest of the Confederate Catholiques of Ulster.</title>
+            <author>O'Neill, Owen Roe, 1590?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90152</idno>
+            <idno type="STC">Wing O339</idno>
+            <idno type="STC">Thomason E562_1</idno>
+            <idno type="STC">ESTC R206067</idno>
+            <idno type="EEBO-CITATION">99865255</idno>
+            <idno type="PROQUEST">99865255</idno>
+            <idno type="VID">165224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165224)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Generall Ovven Oneales letter to Collonell Monck with the propositions of Owen Oneale, the Lords, gentry, and commons of the Confederate Catholiques of Ulster: to the most honourable, and potent, the Parliament of England. Together vvith Coll. Monck his answer. And Collonell Moncks propositions to Owen Oneale, and the rest of the Confederate Catholiques of Ulster.</title>
+                  <author>O'Neill, Owen Roe, 1590?-1649.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. H. and S. G. and are to be sold neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Earl.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165224:1" rendition="simple:additions"/>
+            <p>GENERALL Ovven Oneales LETTER TO Collonell Monck WITH The Propoſitions of Owen Oneale, the Lords, Gentry, and Commons of the <hi>Con<g ref="char:EOLhyphen"/>federate Catholiques of</hi> ULSTER: To the moſt Honourable, and Potent, the Par<g ref="char:EOLhyphen"/>liament of <hi>ENGLAND.</hi>
+            </p>
+            <p>TOGETHER With Coll. MONCK his Anſwer. AND Collonell <hi>MONCKS</hi> Propoſitions to <hi>Owen O<g ref="char:EOLhyphen"/>neale,</hi> and the reſt of the <hi>Confederate Ca<g ref="char:EOLhyphen"/>tholiques of ULSTER.</hi>
+            </p>
+            <p>
+               <add>June 28</add>
+            </p>
+            <p>LONDON, Printed for <hi>A. H.</hi> and <hi>S. G.</hi> and are to be ſold neer the <hi>Royall Exchange.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165224:2"/>
+            <pb n="1" facs="tcp:165224:2"/>
+            <head>The Copy of Generall OVVEN ONEALES Letter to Collonell MONCK.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ours of the 29th of March laſt I received late<g ref="char:EOLhyphen"/>ly, and could not anſwer the ſame untill now, in regard your articles of Ceſſation there incloſed are ſomething to briefe, and could not well agree unto without inlarge<g ref="char:EOLhyphen"/>ment, I have imployed Capt. <hi>Mac Mahon</hi> thither, quallified with power to treate, and conclude with you about the ſame, according to inſtructions by him, as alſo to deliver unto you certaine Propoſitions (as far as I can remember) hath been formerly ſent to Col. <hi>Jones:</hi> to which no anſwer hath been given as yet, whereof I wonder. What agree<g ref="char:EOLhyphen"/>ment ſhall be made by the ſaid Capt. <hi>Hugh Mac Machon,</hi> touching the premiſes ſhall be binding to me, and all thoſe with me, whereof you ſhall have true performance at the hands of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your humble Servant
+<hi>Owen Oneale.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_propositions">
+            <pb n="2" facs="tcp:165224:3"/>
+            <head>THE Propoſitions of Generall OVVEN ONEALE, the Lords, Gentry, and Commons of the Confederate Catho<g ref="char:EOLhyphen"/>liques of ULSTER.
+To the moſt Honourable, and potent, the Parlia<g ref="char:EOLhyphen"/>ment of <hi>ENGLAND.</hi>
+            </head>
+            <list>
+               <item>Imprimis, That all Lawes, Statutes, Penalties, made, paſt, or concluded againſt the Roman Catholicks, its Miniſters or profeſſors, their liberties or exerciſes of the ſaid Religion, ſince the 21 yeare of <hi>Henry</hi> the 8th, to be reclaimed and per<g ref="char:EOLhyphen"/>petually to bee taken off. And to extend to that party, and their succeſſors for ever.</item>
+               <item>2 That the ſaid Generall <hi>Owen Oneale</hi> deſires that an Act of oblivion be paſſed to extend to all and every of his party, for all things done ſince the beginning of the yeare 1641:</item>
+               <item>They deſire that Generall <hi>Owen Oneale</hi> be provided for a competent Command in the Army, befitting his place, worth or quality.</item>
+               <item>4 They deſire that all lands taken illegally from the ſaid party, and every of them, and their Anceſtors ſince the firſt <hi>Jacobi,</hi> be reſtored to them again.</item>
+               <item>5 That the ſaid party be made capable and intruſted in all Command, Martiall and Civill, by Sea or Land.</item>
+               <item>6 That all incapacity, inability and diſtruſt hitherto by
+<pb n="3" facs="tcp:165224:3"/>
+act of State, or otherwayes againſt the ſaid party, be taken off.</item>
+               <item>7 That on both ſides, all jealouſies, hate and averſion; be laid aſide: unity, love, and amity be renewed, and proclaim<g ref="char:EOLhyphen"/>ed between both parties.</item>
+               <item>8 That Generall <hi>Owen Oneale</hi> be reſtored, and put in poſſeſsion of his Anceſtors Eſtates, untill it be tryed whe<g ref="char:EOLhyphen"/>ther the ſaid Eſtates was illegally taken from them or not.</item>
+               <item>9 That that party be provided, and poſſeſſed with a con<g ref="char:EOLhyphen"/>venient Sea-port in the Province of <hi>Ulſter.</hi>
+               </item>
+               <item>10 That the Army belonging to Generall <hi>Oneale</hi> and his party, be provided for in all points as the reſt of the Ar<g ref="char:EOLhyphen"/>my ſhall be.</item>
+            </list>
+            <closer>
+               <signed>OWEN ONEALE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Col. <hi>Monck</hi> his anſwer to Generall <hi>Owen Oneal.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received yours of the 25. of April, and have ſeen your order to Captaine <hi>Hugh Macmahon</hi> to treat and conclude a peace with me, in behalfe of your ſelfe, and the Forces under your command: I have peruſed your propoſitions, and conceiving there are ſome particulars, which at the firſt view, the Parliament of <hi>England</hi> may ſcruple to grant: I have made a ſmall alteration in ſome of them, being well aſſured that by it you will not receive the leaſt diſadvantage; but it will rather prove a means to beget an increaſe of good opi<g ref="char:EOLhyphen"/>nion towards you, and your party, which I beleeve your real<g ref="char:EOLhyphen"/>lity, fidelity and action in their ſervice will ſufficiently merit: and in caſe you approve of them as I have reviſed them and and altered them; I deſire you to ſend them to me ſigned and ſealed by you, that I may preſent them to the Parliament of <hi>England,</hi> to obtaine their favourable anſwer in returne of them; and in the meane time, I deſire according to the inclo<g ref="char:EOLhyphen"/>ſed
+<pb n="4" facs="tcp:165224:4"/>
+Paper three months Ceſſation, be concluded and agreed unto between us, and inviolably kept between our Forces during the ſaid time.</p>
+         </div>
+         <div type="list_of_propositions">
+            <list>
+               <head>Col. <hi>Monck</hi> his Propoſitions to Generall <hi>Owen Oneal.</hi>
+               </head>
+               <item>
+                  <hi>IMprimis,</hi> That ſuch as ſhall joyne with General <hi>Owen Oneal</hi> in the ſervice of the Parliament of England in this Kingdome, may have liberty of conſcience for themſelves, and their iſſue.</item>
+               <item>2. The ſaid Generall <hi>Oneal</hi> deſireth an act of oblivion to be paſſed, and extend to all and every of his party for al things done ſince the year 1641.</item>
+               <item>3. That they deſire Generall <hi>Owen Oneal</hi> be provi<g ref="char:EOLhyphen"/>ded for a competent command in the Army, befitting his place, worth and dignity.</item>
+               <item>4. They deſire that they may enjoy all thoſe lands that were in their poſſeſsion at the beginning of the wars, for themſelves and others, during their fidelity to the intereſt of England.</item>
+               <item>5. That al incapacity, inability and diſtruſt hitherto by act of State, or other wayes againſt the ſaid party, be taken off.</item>
+               <item>6. That on both ſides all jealouſies or aſperſions be laid aſide, unity, love, and amity be renewed and practiſed be<g ref="char:EOLhyphen"/>tween both parties.</item>
+               <item>7. That General <hi>Oneal</hi> may be reſtored and put in poſ<g ref="char:EOLhyphen"/>ſeſsion of his anceſtors eſtates, or ſome other eſtate equivalent to it, in regard of his merit, and the good ſervice that he ſhall performe in the Parliament of Englands ſervice, in the preſervation of the intereſt in this Kingdome.</item>
+               <item>8. That the Army belonging to Generall <hi>Oneal</hi> and his party be provided for in all points, as the reſt of the Army ſhall be.</item>
+               <item>
+                  <pb n="5" facs="tcp:165224:4"/>
+9. That the ſaid party be provided with, and poſſeſſed of, a convenient Sea port in the Province of Ulſter.</item>
+               <item>10. And then in receiving a Confirmation of theſe deſires; under taken and promiſed for my ſelfe, and in behalf of the Army under my command, faithfully and firmely to adhere to the Parliament of <hi>Englands</hi> ſervice in this Kingdome, and to maintaine their intereſt hereafter with the hazard of our lives and eſtates againſt all oppoſers whatſoever.</item>
+            </list>
+            <closer>
+               <dateline>Given under my hand and ſeale.</dateline>
+               <signed>Owen Oneal.</signed>
+            </closer>
+         </div>
+         <div type="list_of_propositions">
+            <list>
+               <head>Col. <hi>Monck</hi> his Propoſitions to Gen. <hi>Owen Oneale</hi>
+               </head>
+               <item>
+                  <hi>IMprimis,</hi> That there bee a Ceſſation of Armes be<g ref="char:EOLhyphen"/>tween the forces under Generall <hi>Owen Oneales</hi> Com<g ref="char:EOLhyphen"/>mand and the forces under my Command for the ſpace of 3 Months, beginning the firſt of this inſtant <hi>May,</hi> be<g ref="char:EOLhyphen"/>fore which time be ended, I am certaine to receive the Parliaments anſwer to your Propoſitions.</item>
+               <item>2 That upon all occaſions during the ſaid time, we be ready to aſſiſt one another until ſuch time we receive a more abſolute agreement made, and condeſended upon, by the Parliament of <hi>England.</hi>
+               </item>
+               <item>3 For ſuch Creets as pay me contribution, I ſhall be contented that they likewiſe pay contribution to the forces under Generall <hi>Oneals</hi> command, provided that I may have liberty to bring ſuch Creets of the Province of <hi>Ulſter</hi> under Contribution to mee, which have not paide any to the Forces under my Com<g ref="char:EOLhyphen"/>mand.</item>
+               <item>4 If any proviſion arrives into a harbour under my Command for the uſe of Generall <hi>Oneale,</hi> or any under his Command, that freedom be given to them to ſend and fetch thoſe proviſions with ſafety, provided hee continue an enemy to the enemies of the Parliament in <hi>England</hi> in this Kingdome.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
